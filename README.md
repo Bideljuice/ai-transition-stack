@@ -105,5 +105,4 @@ Just paste. Approve. Publish.
 This is month one. The blueprint is being built in real time.
 
 Follow along:
-[Your LinkedIn URL]
-[Your Twitter/X URL]
+https://twitter.com/TamBuildsAI
